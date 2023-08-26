@@ -973,3 +973,5 @@ www.apple.com
 www.appleiphonecell.com
 gql.reddit.com
 gql-realtime.reddit.com
+oauth.reddit.com
+e.reddit.com
