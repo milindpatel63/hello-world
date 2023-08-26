@@ -975,3 +975,5 @@ gql.reddit.com
 gql-realtime.reddit.com
 oauth.reddit.com
 e.reddit.com
+alb.reddit.com
+w3-reporting.reddit.com
