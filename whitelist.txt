@@ -971,3 +971,5 @@ captive.apple.com
 gsp1.apple.com
 www.apple.com
 www.appleiphonecell.com
+gql.reddit.com
+gql-realtime.reddit.com
