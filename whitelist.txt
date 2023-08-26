@@ -977,3 +977,4 @@ oauth.reddit.com
 e.reddit.com
 alb.reddit.com
 w3-reporting.reddit.com
+meta-api.reddit.com
