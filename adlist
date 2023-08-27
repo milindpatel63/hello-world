@@ -6,5 +6,5 @@ https://easylist.to/easylist/easylist.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://big.oisd.nl
 https://blocklistproject.github.io/Lists/everything.txt
-https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
+#https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+#https://www.github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
